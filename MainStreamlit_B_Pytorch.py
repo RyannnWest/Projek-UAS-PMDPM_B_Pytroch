@@ -1,5 +1,5 @@
 import os
-import MainStreamlit_B_Pytorch as st
+import streamlit as st
 import tensorflow as tf
 import numpy as np
 from tensorflow.keras.models import load_model # type: ignore
